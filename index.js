@@ -133,3 +133,5 @@ celsiusLink.addEventListener("click", displayCelsiusTemperature);
 
 
 search ("Erfurt");
+
+
